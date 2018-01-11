@@ -1,4 +1,4 @@
-package parser.dom;
+package alterg.parser.dom;
 
 import lombok.Data;
 
