@@ -1,4 +1,4 @@
-package alterg.parser.jaxb;
+package alterg.jaxb;
 
 import lombok.NoArgsConstructor;
 import lombok.Setter;

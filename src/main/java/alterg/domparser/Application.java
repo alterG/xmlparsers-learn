@@ -1,4 +1,4 @@
-package alterg.parser.dom;
+package alterg.domparser;
 
 import alterg.Main;
 import org.w3c.dom.Document;

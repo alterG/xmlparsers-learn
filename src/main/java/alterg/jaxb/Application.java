@@ -1,6 +1,4 @@
-package alterg.parser.jaxb;
-
-import alterg.Main;
+package alterg.jaxb;
 
 import java.io.File;
 import javax.xml.bind.JAXBContext;
